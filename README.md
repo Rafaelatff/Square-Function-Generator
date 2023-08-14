@@ -36,7 +36,9 @@ Project will use a external power supply. It can come from a bench top power sup
 
 ![image](https://github.com/Rafaelatff/Square-Function-Generator/assets/58916022/211b91cc-0fc7-4ab3-9877-21e3882b3ee1)
 
-I will use a development board (STM8S with stm8s003k3t6, same used on my graduation TCC) to control the outputs and show in the display the current configuration. The display uses 5 V to operate and the microcontroller 2.95 V to 5.5 V as operating voltage. If the project uses 5 V also to power the microcontroller, a voltage translater is needless. 
+I will use a development board (STM8S with stm8s003k3t6, same used on my graduation TCC, or pin equivalent stm8s103k3t6) to control the outputs and show in the display the current configuration. The display uses 5 V to operate and the microcontroller 2.95 V to 5.5 V as operating voltage. If the project uses 5 V also to power the microcontroller, a voltage translater is needless. 
+
+![image](https://github.com/Rafaelatff/Square-Function-Generator/assets/58916022/dbe92845-1bc7-47ee-9cb0-daf64e1935f4)
 
 * External power supply connected by jack.
 * 5 V regulator to supply the command part of the board.
